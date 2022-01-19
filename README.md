@@ -5,3 +5,4 @@
 4. [TT](https://github.com/hamadmarri/TT-CPU-Scheduler) - Task Type (TT) is an alternative CPU Scheduler for linux.
 5. [MuQSS](http://ck.kolivas.org/patches/muqss) - Multiple Queue Skiplist Scheduler, a rewritten implementation of the Brain Fuck Scheduler (BFS) concept.
 6. [CFS](https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html) - CFS (Completely Fair Scheduler) is the new desktop process scheduler implemented in Linux 2.6.23 as a replacement for the previous vanilla scheduler’s SCHED_OTHER interactivity code. It is the current linux task scheduler.
+7. [BFS](https://www.phoronix.com/scan.php?page=search&q=Brain+Fuck+Scheduler) - BFS (Brain Fuck Scheduler) is a process scheduler designed for the linux kernel as an alternative to the Completely Fair Scheduler. BFS has been retired in favour of MuQSS.
