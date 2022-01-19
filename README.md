@@ -8,3 +8,4 @@
 7. [BFS](https://www.phoronix.com/scan.php?page=search&q=Brain+Fuck+Scheduler) - BFS (Brain Fuck Scheduler) is a process scheduler designed for the linux kernel as an alternative to the Completely Fair Scheduler. BFS has been retired in favour of MuQSS.
 8. [PDS](https://cchalpha.blogspot.com) - PDS (Priority and Deadline based Skiplist multiple queue scheduler) is a linux CPU scheduler whose design principles are to be a simple CPU process scheduler yet efficient and scalable.
 9. [BMQ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-BitMap-Queue-BMQ) - BMQ (BitMap Queue) is a linux CPU scheduler, inspired By Google's Zircon.
+10. [Cachy](https://github.com/hamadmarri/cacule-cpu-scheduler) - Cache is a linux CPU scheduler based on a Highest Response Ration Next (HRRN) policy.
