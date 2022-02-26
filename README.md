@@ -9,3 +9,4 @@
 8. [PDS](https://cchalpha.blogspot.com) - PDS (Priority and Deadline based Skiplist multiple queue scheduler) is a linux CPU scheduler whose design principles are to be a simple CPU process scheduler yet efficient and scalable.
 9. [BMQ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-BitMap-Queue-BMQ) - BMQ (BitMap Queue) is a linux CPU scheduler, inspired By Google's Zircon.
 10. [Cachy](https://github.com/hamadmarri/cacule-cpu-scheduler) - Cachy is a linux CPU scheduler based on a Highest Response Ration Next (HRRN) policy.
+11. [System76 Scheduler](https://github.com/pop-os/system76-scheduler) - Optimizes Linux's CPU scheduler and automatically assigns process priorities for improved desktop responsiveness.
